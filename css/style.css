@@ -1,0 +1,32 @@
+h1 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 20px;
+}
+
+h2 {
+    text-align: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+}
+
+
+.clock {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translateX(-50%) translateY(-50%);
+    /* color: #17D4FE; */
+    font-size: 60px;
+    font-family:'Orbitron', sans-serif;
+    letter-spacing: 7px;
+    
+}
+
+.day {
+    font-family: 'Orbitron', sans-serif;
+    font-size: 30px;
+    margin-top: 135px;
+    text-align: center;
+} 
+
